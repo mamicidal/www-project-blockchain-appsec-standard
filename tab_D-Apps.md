@@ -6,5 +6,5 @@ order: 2
 tags: d-app, blockchain
 ---
 
-## Decentralized Application (D-App)
+## Decentralized Applications (D-Apps)
 Overview to go here JON
