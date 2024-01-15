@@ -5,13 +5,12 @@ title: OWASP BlockChain AppSec Security Standard
 tags: blockchain data datasecurity security top10 data-security blockchain-security web3-security blockchain-data-security roadmap news acknowledgments
 level: 4
 type: documentation
-pitch: Decentralized Application (D-App) security standards and best practices. The guide provides information about the most major security risks for decentralized applications (D-Apps), and blockchain smart contracts including Non-fungible Tokens (NFTs) and the unique challenges involved and how to overcome them.
-
+pitch: The guide focuses on blockchain, decentralized applications (D-Apps), NFTs, cryptocurrency, and related infrastructure providing best practices, known risks and mitigations and other information related to the unique challenges of understanding blockchain.
 ---
 
 ## Overview
 
-Decentralized Application (D-App) security standards and best practices guide for securing the blockchain. The guide provides information about the most major security risks for decentralized applications (D-Apps) and blockchain smart contracts including Non-fungible tokens (NFTs) and the unique challenges involved and how to overcome them.
+The guide focuses on blockchain, decentralized applications (D-Apps), NFTs, cryptocurrency, and related infrastructure providing best practices, known risks and mitigations and other information related to the unique challenges of understanding blockchain.
 
 AppSec: ->What i learned from Crypto 
 * Same attacks in a new paradigm 
