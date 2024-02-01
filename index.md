@@ -12,6 +12,13 @@ pitch: The guide focuses on blockchain, decentralized applications (D-Apps), NFT
 
 The guide focuses on blockchain, decentralized applications (D-Apps), NFTs, cryptocurrency, and related infrastructure providing best practices, known risks and mitigations and other information related to the unique challenges of understanding blockchain.
 
+## Getting Involved
+
+You do not have to be a security expert or a programmer to contribute. Contact the project leader(s) to get involved. We welcome any suggestions and comments. Possible ways to contribute:
+
+ * We are actively looking for organizations and individuals who understand blockchain security challenges.
+ * Individuals and organizations contributing to the project will be listed on the acknowledgments page.
+
 ## Blockchain vs Web3
 
 Blockchain is the technological backbone of Web3 and as a fundamental technology, like a database, allows for new types of systems in Web3. Web3, built from blockchain, is a tokenization system that is unique to the owner that can provide absolute, transparent authority.  
@@ -19,13 +26,6 @@ Blockchain is the technological backbone of Web3 and as a fundamental technology
 An example of such a system in Web3, built from the foundation of blockchain is as follows:
 
 A user logs in to a website for the first time using their on-chain wallet address with a single signature passwords, user accounts, all new interaction on the web. The worst thing to ever happen to blockchain is cryptocurrency. 
-
-## Getting Involved
-
-You do not have to be a security expert or a programmer to contribute. Contact the project leader(s) to get involved. We welcome any suggestions and comments. Possible ways to contribute:
-
- * We are actively looking for organizations and individuals who understand blockchain security challenges.
- * Individuals and organizations contributing to the project will be listed on the acknowledgments page.
 
 ## Non-fungible Tokens (NFTS)
 
