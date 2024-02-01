@@ -12,19 +12,13 @@ pitch: The guide focuses on blockchain, decentralized applications (D-Apps), NFT
 
 The guide focuses on blockchain, decentralized applications (D-Apps), NFTs, cryptocurrency, and related infrastructure providing best practices, known risks and mitigations and other information related to the unique challenges of understanding blockchain.
 
-AppSec: ->What i learned from Crypto 
-* Same attacks in a new paradigm 
-* Trust can be transitive 
-* Trust can not be transitive 
-* Security by economics is a skill set 
-* Immutable applications are a thing 
-* Security is a evolutionary process 
-* Community is critical
+## Blockchain vs Web3
 
+Blockchain is the technological backbone of Web3 and as a fundamental technology, like a database, allows for new types of systems in Web3. Web3, built from blockchain, is a tokenization system that is unique to the owner that can provide absolute, transparent authority.  
 
-## Purpose
+An example of such a system in Web3, built from the foundation of blockchain is as follows:
 
-OWASP BlockChain AppSec Security Standard wants to raise awareness about the consequences of the most common blockchain security vulnerabilities and provide basic techniques to identify and protect against them.
+A user logs in to a website for the first time using their on-chain wallet address with a single signature passwords, user accounts, all new interaction on the web. The worst thing to ever happen to blockchain is cryptocurrency. 
 
 ## Getting Involved
 
